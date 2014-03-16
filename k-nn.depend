@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1394623127 source:c:\users\sarah\documents\parallel\k-nn\knn.cpp
+	<iostream>
+	<string>
+	<vector>
+	"instance.h"
+	"neighbor.h"
+	"Action.h"
+	"FileReader.h"
+	"category.h"
+
+1396942247 source:c:\users\sarah\documents\parallel\k-nn\feature.cpp
+	<string>
+
+1394329484 c:\users\sarah\documents\parallel\k-nn\instance.h
+	"feature.h"
+
+1396945196 c:\users\sarah\documents\parallel\k-nn\feature.h
+	<string>
+
+1394336207 c:\users\sarah\documents\parallel\k-nn\neighbor.h
+
+1394547745 c:\users\sarah\documents\parallel\k-nn\action.h
+	<locale>
+	<string>
+
+1394940665 c:\users\sarah\documents\parallel\k-nn\filereader.h
+	<fstream>
+	<string>
+	<vector>
+	<cstring>
+	"feature.h"
+	"category.h"
+	"distance.h"
+	"expiry.h"
+	"handset.h"
+	"offer.h"
+
+1394680393 c:\users\sarah\documents\parallel\k-nn\category.h
+	<string>
+	<sstream>
+
+1394635856 c:\users\sarah\documents\parallel\k-nn\distance.h
+	<string>
+	<sstream>
+
+1394650115 c:\users\sarah\documents\parallel\k-nn\expiry.h
+	<string>
+
+1394690319 c:\users\sarah\documents\parallel\k-nn\handset.h
+	<string>
+	<locale>
+
+1394909479 c:\users\sarah\documents\parallel\k-nn\offer.h
+	<iostream>
+	<unordered_map>
+	<string>
+	<vector>
+	<algorithm>
+
